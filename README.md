@@ -3,7 +3,7 @@ Allows the On Demand App Generation workflow to appear seamless to the user all 
 
 See it live: https://qlikdemos.qlikpoc.com/extensions/CascadingODAGMashup/CascadingODAGMashup.html 
 
-![alt tag](https://github.com/fadyheiba/CascadingODAGMashup/blob/master/CascadingODAGMashup/Screenshot.png)
+![alt tag](https://github.com/fadyheiba/CascadingODAGMashup/blob/master/CascadingODAGMashup/Screenshot.jpg)
 
 Setup:
 - Please follow the instructions in the HTML and JS file to replace the App/Sheet IDs with your own. 
